@@ -16,7 +16,6 @@ finish-args:
   - --filesystem=xdg-pictures
   - --filesystem=xdg-music
   - --filesystem=xdg-videos
-  - --talk-name=org.freedesktop.Flatpak
 
 modules:
   - name: fileshows
@@ -38,6 +37,6 @@ modules:
           - x86_64
         # path: "FileShows-1.0.1-bin-linux-x86_64.tar.gz"
         url: https://webpath.iche2.com/release/FileShows-1.0.1-bin-linux-x86_64.tar.gz
-        sha256: f998541b2df27b24fe31cef09ffab9af8ce245166cfe6d2efc1a61c17ad95ae0
+        sha256: 9874b5bbef42e60b8d4890ae1ba9af725fe9d2ecd190cb2805624a3d399478f0
         dest-filename: fileshows.tar.gz
         strip-components: 1
