@@ -35,8 +35,8 @@ modules:
       - type: archive
         only-arches:
           - x86_64
-        # path: "FileShows-1.0.1-bin-linux-x86_64.tar.gz"
-        url: https://webpath.iche2.com/release/FileShows-1.0.1-bin-linux-x86_64.tar.gz
-        sha256: 9874b5bbef42e60b8d4890ae1ba9af725fe9d2ecd190cb2805624a3d399478f0
+        # path: "FileShows-1.0.2-bin-linux-x86_64.tar.gz"
+        url: https://webpath.iche2.com/release/FileShows-1.0.2-bin-linux-x86_64.tar.gz
+        sha256: e2d7a79850f8b692d80c4412154f8476942c75c9c09b25b67e8da7e47fc6769b
         dest-filename: fileshows.tar.gz
         strip-components: 1
